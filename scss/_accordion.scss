@@ -4,6 +4,7 @@
 
 .accordion {
   // scss-docs-start accordion-css-vars
+  //
   --#{$prefix}accordion-color: #{color-contrast($accordion-bg)};
   --#{$prefix}accordion-bg: #{$accordion-bg};
   --#{$prefix}accordion-transition: #{$accordion-transition};
